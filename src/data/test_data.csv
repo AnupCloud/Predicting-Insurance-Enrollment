@@ -1,0 +1,6 @@
+employee_id,age,gender,marital_status,salary,employment_type,region,has_dependents,tenure_years,enrolled
+20000,54,Male,Single,69163.41,Full-time,South,Yes,0.8,1
+19956,48,Female,Single,64156.22,Part-time,Midwest,No,1.2,0
+19957,54,Other,Married,77492.72,Part-time,Midwest,No,2.2,0
+19958,43,Female,Single,71391.32,Full-time,South,Yes,12.2,1
+19959,24,Male,Married,63897.07,Full-time,Midwest,Yes,3.2,1
