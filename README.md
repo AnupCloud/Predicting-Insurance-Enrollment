@@ -22,10 +22,9 @@ This project provides an API for predicting employee insurance enrollment probab
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/insurance-enrollment-api.git
-    cd insurance-enrollment-api
+    git clone https://github.com/AnupCloud/Predicting-Insurance-Enrollment.git
+    cd Predicting-Insurance-Enrollment
     ```
-    *(Replace `yourusername` with the actual username/organization)*
 
 **📌 Setting Up the Project Using UV**
 
