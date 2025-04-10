@@ -177,7 +177,7 @@ CMD ["/app/.venv/bin/uvicorn", "main:app", "--port", "8000", "--host","0.0.0.0",
 
 ` docker build -t insurance . `
 
-Here, **fastapi-app** is the name of your Docker image.
+Here, **insurance** is the name of your Docker image.
 
 ### **🔹 11️⃣ Run the Container**
 
